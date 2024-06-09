@@ -1,0 +1,39 @@
+﻿@model UserRolesViewModel
+
+@{
+    ViewData["Title"] = "Gérer les rôles";
+}
+
+<form asp-action="UpdateRoles" method="post">
+    <div class="card mt-4">
+
+        <div class="card-header">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="@Url.Action("Index","Home")">Acceuil</a></li>
+                    <li class="breadcrumb-item"><a href="@Url.Action("Index","Users")">Gestion les utilisateurs</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Gérer les rôles</li>
+                </ol>
+            </nav>
+            <h3>@Model.UserName</h3>
+        </div>
+        <div class="card-body">
+            <input type="hidden" asp-for="UserId" />
+            @for (int i = 0; i < Model.Roles.Count; i++)
+            {
+                <div class="form-check m-1">
+                    <input type="hidden" asp-for="@Model.Roles[i].DisplayValue" />
+                    <input asp-for="@Model.Roles[i].IsSelected" class="form-check-input" />
+                    <label class="form-check-label" asp-for="@Model.Roles[i].IsSelected">
+                        @Model.Roles[i].DisplayValue
+                    </label>
+                </div>
+            }
+            <div asp-validation-summary="All" class="text-danger"></div>
+        </div>
+        <div class="card-footer">
+            <button type="submit" class="btn btn-dark">Save</button>
+            <a asp-action="Index" class="btn btn-danger">Cancel</a>
+        </div>
+    </div>
+</form>

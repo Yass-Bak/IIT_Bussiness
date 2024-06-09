@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\souna\\Desktop\\ProjetPFA IIT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{539516E4-1B86-4A37-9E5C-0E8B9D4DFAF9}|ProjetPFA.csproj|c:\\users\\souna\\desktop\\projetpfa iit\\seeds\\defaultusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539516E4-1B86-4A37-9E5C-0E8B9D4DFAF9}|ProjetPFA.csproj|solutionrelative:seeds\\defaultusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539516E4-1B86-4A37-9E5C-0E8B9D4DFAF9}|ProjetPFA.csproj|c:\\users\\souna\\desktop\\projetpfa iit\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{539516E4-1B86-4A37-9E5C-0E8B9D4DFAF9}|ProjetPFA.csproj|solutionrelative:views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DefaultUsers.cs",
+              "DocumentMoniker": "C:\\Users\\souna\\Desktop\\ProjetPFA IIT\\Seeds\\DefaultUsers.cs",
+              "RelativeDocumentMoniker": "Seeds\\DefaultUsers.cs",
+              "ToolTip": "C:\\Users\\souna\\Desktop\\ProjetPFA IIT\\Seeds\\DefaultUsers.cs",
+              "RelativeToolTip": "Seeds\\DefaultUsers.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T12:12:01.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\souna\\Desktop\\ProjetPFA IIT\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\souna\\Desktop\\ProjetPFA IIT\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T23:25:23.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

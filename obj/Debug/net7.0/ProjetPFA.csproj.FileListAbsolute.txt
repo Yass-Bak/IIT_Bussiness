@@ -1,0 +1,929 @@
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\appsettings.Development.json
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\appsettings.json
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\ProjetPFA.staticwebassets.runtime.json
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\ProjetPFA.exe
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\ProjetPFA.deps.json
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\ProjetPFA.runtimeconfig.json
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\ProjetPFA.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\ProjetPFA.pdb
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\Azure.Core.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\Azure.Identity.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\Humanizer.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\System.CodeDom.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\System.Memory.Data.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\.netprojetIIT\ProjetPFA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\.netprojetIIT\ProjetPFA\obj\Debug\net7.0\ProjetPFA.csproj.AssemblyReference.cache
+C:\.netprojetIIT\ProjetPFA\obj\Debug\net7.0\ProjetPFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\.netprojetIIT\ProjetPFA\obj\Debug\net7.0\ProjetPFA.AssemblyInfoInputs.cache
+C:\.netprojetIIT\ProjetPFA\obj\Debug\net7.0\ProjetPFA.AssemblyInfo.cs
+C:\.netprojetIIT\ProjetPFA\obj\Debug\net7.0\ProjetPFA.csproj.CoreCompileInputs.cache
+C:\.netprojetIIT\ProjetPFA\obj\Debug\net7.0\ProjetPFA.MvcApplicationPartsAssemblyInfo.cs
+C:\.netprojetIIT\ProjetPFA\obj\Debug\net7.0\ProjetPFA.MvcApplicationPartsAssemblyInfo.cache
+C:\.netprojetIIT\ProjetPFA\obj\Debug\net7.0\ProjetPFA.RazorAssemblyInfo.cache
+C:\.netprojetIIT\ProjetPFA\obj\Debug\net7.0\ProjetPFA.RazorAssemblyInfo.cs
+C:\.netprojetIIT\ProjetPFA\obj\Debug\net7.0\staticwebassets\msbuild.ProjetPFA.Microsoft.AspNetCore.StaticWebAssets.props
+C:\.netprojetIIT\ProjetPFA\obj\Debug\net7.0\staticwebassets\msbuild.build.ProjetPFA.props
+C:\.netprojetIIT\ProjetPFA\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ProjetPFA.props
+C:\.netprojetIIT\ProjetPFA\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ProjetPFA.props
+C:\.netprojetIIT\ProjetPFA\obj\Debug\net7.0\staticwebassets.pack.json
+C:\.netprojetIIT\ProjetPFA\obj\Debug\net7.0\staticwebassets.build.json
+C:\.netprojetIIT\ProjetPFA\obj\Debug\net7.0\staticwebassets.development.json
+C:\.netprojetIIT\ProjetPFA\obj\Debug\net7.0\scopedcss\bundle\ProjetPFA.styles.css
+C:\.netprojetIIT\ProjetPFA\obj\Debug\net7.0\ProjetPFA.csproj.CopyComplete
+C:\.netprojetIIT\ProjetPFA\obj\Debug\net7.0\ProjetPFA.dll
+C:\.netprojetIIT\ProjetPFA\obj\Debug\net7.0\refint\ProjetPFA.dll
+C:\.netprojetIIT\ProjetPFA\obj\Debug\net7.0\ProjetPFA.pdb
+C:\.netprojetIIT\ProjetPFA\obj\Debug\net7.0\ProjetPFA.genruntimeconfig.cache
+C:\.netprojetIIT\ProjetPFA\obj\Debug\net7.0\ref\ProjetPFA.dll
+C:\.netprojetIIT\ProjetPFA\obj\Debug\net7.0\scopedcss\projectbundle\ProjetPFA.bundle.scp.css
+C:\.netprojetIIT\ProjetPFA\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout2.cshtml.rz.scp.css
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\appsettings.json
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ProjetPFA.staticwebassets.runtime.json
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ProjetPFA.exe
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ProjetPFA.deps.json
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ProjetPFA.runtimeconfig.json
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ProjetPFA.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ProjetPFA.pdb
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Humanizer.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\obj\Debug\net7.0\ProjetPFA.csproj.AssemblyReference.cache
+C:\Users\souna\Desktop\PFA\ProjetPFA\obj\Debug\net7.0\ProjetPFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souna\Desktop\PFA\ProjetPFA\obj\Debug\net7.0\ProjetPFA.AssemblyInfoInputs.cache
+C:\Users\souna\Desktop\PFA\ProjetPFA\obj\Debug\net7.0\ProjetPFA.AssemblyInfo.cs
+C:\Users\souna\Desktop\PFA\ProjetPFA\obj\Debug\net7.0\ProjetPFA.csproj.CoreCompileInputs.cache
+C:\Users\souna\Desktop\PFA\ProjetPFA\obj\Debug\net7.0\ProjetPFA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\souna\Desktop\PFA\ProjetPFA\obj\Debug\net7.0\ProjetPFA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\souna\Desktop\PFA\ProjetPFA\obj\Debug\net7.0\ProjetPFA.RazorAssemblyInfo.cache
+C:\Users\souna\Desktop\PFA\ProjetPFA\obj\Debug\net7.0\ProjetPFA.RazorAssemblyInfo.cs
+C:\Users\souna\Desktop\PFA\ProjetPFA\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\souna\Desktop\PFA\ProjetPFA\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\souna\Desktop\PFA\ProjetPFA\obj\Debug\net7.0\staticwebassets\msbuild.ProjetPFA.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\souna\Desktop\PFA\ProjetPFA\obj\Debug\net7.0\staticwebassets\msbuild.build.ProjetPFA.props
+C:\Users\souna\Desktop\PFA\ProjetPFA\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ProjetPFA.props
+C:\Users\souna\Desktop\PFA\ProjetPFA\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ProjetPFA.props
+C:\Users\souna\Desktop\PFA\ProjetPFA\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\souna\Desktop\PFA\ProjetPFA\obj\Debug\net7.0\scopedcss\bundle\ProjetPFA.styles.css
+C:\Users\souna\Desktop\PFA\ProjetPFA\obj\Debug\net7.0\ProjetPFA.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\obj\Debug\net7.0\refint\ProjetPFA.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\obj\Debug\net7.0\ProjetPFA.pdb
+C:\Users\souna\Desktop\PFA\ProjetPFA\obj\Debug\net7.0\ProjetPFA.genruntimeconfig.cache
+C:\Users\souna\Desktop\PFA\ProjetPFA\obj\Debug\net7.0\ref\ProjetPFA.dll
+C:\Users\souna\Desktop\PFA\ProjetPFA\obj\Debug\net7.0\ProjetPFA.csproj.Up2Date
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\appsettings.Development.json
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\appsettings.json
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ProjetPFA.staticwebassets.runtime.json
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ProjetPFA.exe
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ProjetPFA.deps.json
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ProjetPFA.runtimeconfig.json
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ProjetPFA.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ProjetPFA.pdb
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Azure.Core.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Azure.Identity.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Humanizer.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.Build.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\NuGet.Common.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\NuGet.Configuration.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\NuGet.Frameworks.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\NuGet.LibraryModel.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\NuGet.Packaging.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\NuGet.ProjectModel.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\NuGet.Protocol.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\NuGet.Versioning.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\System.CodeDom.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\System.Composition.Convention.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\System.Composition.Hosting.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\System.Composition.Runtime.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\System.Composition.TypedParts.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\System.Memory.Data.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\af\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ar\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\az\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\bg\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\cs\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\da\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\de\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\el\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\es\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\fa\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\fr\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\he\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\hr\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\hu\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\hy\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\id\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\is\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\it\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ja\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ku\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\lv\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\mt\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\nb\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\nl\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\pl\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\pt\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ro\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ru\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\sk\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\sl\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\sr\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\sv\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\tr\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\uk\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\vi\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\obj\Debug\net7.0\ProjetPFA.csproj.AssemblyReference.cache
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\obj\Debug\net7.0\ProjetPFA.GeneratedMSBuildEditorConfig.editorconfig
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\obj\Debug\net7.0\ProjetPFA.AssemblyInfoInputs.cache
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\obj\Debug\net7.0\ProjetPFA.AssemblyInfo.cs
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\obj\Debug\net7.0\ProjetPFA.csproj.CoreCompileInputs.cache
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\obj\Debug\net7.0\ProjetPFA.MvcApplicationPartsAssemblyInfo.cs
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\obj\Debug\net7.0\ProjetPFA.MvcApplicationPartsAssemblyInfo.cache
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\obj\Debug\net7.0\ProjetPFA.RazorAssemblyInfo.cache
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\obj\Debug\net7.0\ProjetPFA.RazorAssemblyInfo.cs
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\obj\Debug\net7.0\staticwebassets.build.json
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\obj\Debug\net7.0\staticwebassets.development.json
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\obj\Debug\net7.0\staticwebassets\msbuild.ProjetPFA.Microsoft.AspNetCore.StaticWebAssets.props
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\obj\Debug\net7.0\staticwebassets\msbuild.build.ProjetPFA.props
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ProjetPFA.props
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ProjetPFA.props
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\obj\Debug\net7.0\staticwebassets.pack.json
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\obj\Debug\net7.0\scopedcss\bundle\ProjetPFA.styles.css
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\obj\Debug\net7.0\ProjetPFA.csproj.Up2Date
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\obj\Debug\net7.0\ProjetPFA.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\obj\Debug\net7.0\refint\ProjetPFA.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\obj\Debug\net7.0\ProjetPFA.pdb
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\obj\Debug\net7.0\ProjetPFA.genruntimeconfig.cache
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\obj\Debug\net7.0\ref\ProjetPFA.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\pfemaster\ProjetPFA IIT\ProjetPFA IIT\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\appsettings.json
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ProjetPFA.staticwebassets.runtime.json
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ProjetPFA.exe
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ProjetPFA.deps.json
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ProjetPFA.runtimeconfig.json
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ProjetPFA.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ProjetPFA.pdb
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Humanizer.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\af\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ar\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\az\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\bg\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\cs\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\da\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\de\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\el\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\es\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\fa\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\fr\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\he\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\hr\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\hu\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\hy\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\id\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\is\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\it\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ja\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ku\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\lv\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\mt\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\nb\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\nl\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\pl\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\pt\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ro\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ru\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\sk\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\sl\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\sr\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\sv\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\tr\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\uk\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\vi\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\obj\Debug\net7.0\ProjetPFA.csproj.AssemblyReference.cache
+C:\Users\souna\Desktop\ProjetPFA IIT\obj\Debug\net7.0\ProjetPFA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souna\Desktop\ProjetPFA IIT\obj\Debug\net7.0\ProjetPFA.AssemblyInfoInputs.cache
+C:\Users\souna\Desktop\ProjetPFA IIT\obj\Debug\net7.0\ProjetPFA.AssemblyInfo.cs
+C:\Users\souna\Desktop\ProjetPFA IIT\obj\Debug\net7.0\ProjetPFA.csproj.CoreCompileInputs.cache
+C:\Users\souna\Desktop\ProjetPFA IIT\obj\Debug\net7.0\ProjetPFA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\souna\Desktop\ProjetPFA IIT\obj\Debug\net7.0\ProjetPFA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\souna\Desktop\ProjetPFA IIT\obj\Debug\net7.0\ProjetPFA.RazorAssemblyInfo.cache
+C:\Users\souna\Desktop\ProjetPFA IIT\obj\Debug\net7.0\ProjetPFA.RazorAssemblyInfo.cs
+C:\Users\souna\Desktop\ProjetPFA IIT\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\souna\Desktop\ProjetPFA IIT\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\souna\Desktop\ProjetPFA IIT\obj\Debug\net7.0\staticwebassets\msbuild.ProjetPFA.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\souna\Desktop\ProjetPFA IIT\obj\Debug\net7.0\staticwebassets\msbuild.build.ProjetPFA.props
+C:\Users\souna\Desktop\ProjetPFA IIT\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ProjetPFA.props
+C:\Users\souna\Desktop\ProjetPFA IIT\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ProjetPFA.props
+C:\Users\souna\Desktop\ProjetPFA IIT\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\souna\Desktop\ProjetPFA IIT\obj\Debug\net7.0\scopedcss\bundle\ProjetPFA.styles.css
+C:\Users\souna\Desktop\ProjetPFA IIT\obj\Debug\net7.0\ProjetPFA.csproj.Up2Date
+C:\Users\souna\Desktop\ProjetPFA IIT\obj\Debug\net7.0\ProjetPFA.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\obj\Debug\net7.0\refint\ProjetPFA.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\obj\Debug\net7.0\ProjetPFA.pdb
+C:\Users\souna\Desktop\ProjetPFA IIT\obj\Debug\net7.0\ProjetPFA.genruntimeconfig.cache
+C:\Users\souna\Desktop\ProjetPFA IIT\obj\Debug\net7.0\ref\ProjetPFA.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\obj\Debug\net7.0\ProjetPFA.sourcelink.json
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\SendGrid.dll
+C:\Users\souna\Desktop\ProjetPFA IIT\bin\Debug\net7.0\StarkbankEcdsa.dll
