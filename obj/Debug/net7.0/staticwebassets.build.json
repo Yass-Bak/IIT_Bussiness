@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fG2mM8vQU5Cm/DNhUaRLrM3WL1HsCBxQhpGf0JOSww4=",
+  "Hash": "TIGAuSrUsOWbfiftCrcLjLFVu1mmJxj+p12yFfbgBuA=",
   "Source": "ProjetPFA",
   "BasePath": "_content/ProjetPFA",
   "Mode": "Default",
@@ -8223,6 +8223,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\fonts\\slick.woff"
+    },
+    {
+      "Identity": "C:\\Users\\souna\\Desktop\\ProjetPFA IIT\\wwwroot\\img\\AccessDenied.png",
+      "SourceId": "ProjetPFA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\souna\\Desktop\\ProjetPFA IIT\\wwwroot\\",
+      "BasePath": "_content/ProjetPFA",
+      "RelativePath": "img/AccessDenied.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\AccessDenied.png"
     },
     {
       "Identity": "C:\\Users\\souna\\Desktop\\ProjetPFA IIT\\wwwroot\\img\\apple-touch-icon.png",

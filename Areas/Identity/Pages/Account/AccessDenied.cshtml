@@ -1,10 +1,31 @@
 ﻿@page
 @model AccessDeniedModel
 @{
-    ViewData["Title"] = "Access denied";
+    ViewData["Title"] = "Accès interdit";
 }
+<style>
+    body {
+        background: url('https://ipi.media/wp-content/uploads/2020/06/IPI-Access-to-information-02-06-2020-jpg.jpg') no-repeat center center fixed;
+        background-size: cover;
+    }
 
-<header>
-    <h1 class="text-danger">@ViewData["Title"]</h1>
-    <p class="text-danger">You do not have access to this resource.</p>
+    .content-wrapper {
+        background-color: rgba(255, 255, 255, 0.8); /* Fond semi-transparent pour la lisibilité du texte */
+        padding: 20px;
+        border-radius: 10px;
+    }
+</style>
+
+<header class="container text-center mt-5">
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item">
+                <i class="nav-icon fas fa-home text-info"></i>
+                <a href="/">
+                     Acceuil
+                </a>
+            </li>
+            <li class="breadcrumb-item active" aria-current="page">Accès interdit</li>
+        </ol>
+    </nav>
 </header>

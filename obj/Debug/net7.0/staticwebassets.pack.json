@@ -1501,6 +1501,10 @@
       "PackagePath": "staticwebassets\\fonts\\slick.woff"
     },
     {
+      "Id": "C:\\Users\\souna\\Desktop\\ProjetPFA IIT\\wwwroot\\img\\AccessDenied.png",
+      "PackagePath": "staticwebassets\\img\\AccessDenied.png"
+    },
+    {
       "Id": "C:\\Users\\souna\\Desktop\\ProjetPFA IIT\\wwwroot\\img\\apple-touch-icon.png",
       "PackagePath": "staticwebassets\\img\\apple-touch-icon.png"
     },
